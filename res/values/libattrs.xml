@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="simpleheader"> 
+        <!-- 标题 -->
+        <attr name="title" format="string|reference"/> 
+        <!-- 返回按钮图片 -->
+        <attr name="backImg" format="reference"></attr>
+
+        <!-- 是否需要操作按钮 -->   
+        <attr name="haveOperation" format="boolean"/> 
+        <!-- 操作按钮文字 -->   
+        <attr name="operateTitle" format="string"></attr>
+
+        
+    </declare-styleable> 
+    
+    
+  
+    
+    
+
+    
+    
+</resources>
